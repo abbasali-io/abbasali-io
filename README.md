@@ -4,17 +4,19 @@
 
 ### About me 🐬
 
-- 🖐️ I'm Dao Hong Vinh
-- 🖥️ I’m currently work from Home
-- 🌱 I’m currently learning Docker, AWS, SocketIO
-- 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
-- ✍️ My Blog: [https://hongvinhmobile.com](https://lambiengcode.blogspot.com)
-- 😄 Pronouns: He/His
+- 🖐️ I'm Abbas Ali
+- 🖥️ I’m currently Managing a few Tech Companies
+- 🌱 I’m currently learning Machine Learning, Computer Vision and Flutter
+- 📫 How to reach me: [Twitter - @abbasali-io](https://twitter.com/abbasali-io)
+- ✍️ My Web: [http://abbasali.io](http://abbasali.io)
+<!-- - 😄 Pronouns: He/His -->
 - ⚡ Fun fact: You cannot complete a project without using StackOverflow
 
+<!--
 ### Awards
 
 - 🏅 Idea Award Hackathon HoChiMinh City 2020 - [Repository Here](https://github.com/hongvinhmobile/hackathon2020)
+-->
 
 ### Skills
 
