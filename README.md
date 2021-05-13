@@ -31,6 +31,20 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=flutter_chat_realtime&theme=blueberry)](https://github.com/hongvinhmobile/flutter_chat_realtime)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=project_college_ec&theme=blueberry)](https://github.com/hongvinhmobile/project_college_ec)
 
+
+### Github Stats
+
+- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/abbasali-io">https://profile-summary-for-github.com/user/abbasali-io</a>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasali-io&theme=blueberry" alt="abbasali-io"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=abbasali-io&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasali-io&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
+</p>
+
 <!--
 **abbasali-io/abbasali-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
